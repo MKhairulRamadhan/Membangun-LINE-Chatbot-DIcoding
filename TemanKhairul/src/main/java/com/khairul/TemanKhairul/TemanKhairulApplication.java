@@ -1,13 +1,13 @@
-package com.khairul.Teman;
+package com.khairul.TemanKhairul;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TemanApplication {
+public class TemanKhairulApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TemanApplication.class, args);
+		SpringApplication.run(TemanKhairulApplication.class, args);
 	}
 
 }
